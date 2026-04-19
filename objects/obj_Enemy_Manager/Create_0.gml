@@ -6,7 +6,7 @@ spawn_radius = 320;
 wave_reset_time = 5;
 wave_time = wave_reset_time;
 wave_count = 1;
-total_waves = 1;
+total_waves = 25;
 if (global.wave_type == "hyper") total_waves = infinity;
 
 enemy_pool = [];
