@@ -1,0 +1,1 @@
+game_end_state = 0; //0 = lose, 1 = win

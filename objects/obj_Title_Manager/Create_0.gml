@@ -1,0 +1,1 @@
+global.wave_type = "";
